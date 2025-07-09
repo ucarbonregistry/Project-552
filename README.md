@@ -87,4 +87,24 @@ Project Registration Date: 06/04/2020
 
 Crediting Period Term: CREDITING PERIOD HAS EXPIRED, 30/03/2014 - 29/03/2024
 ______________________
+Audit type/ Period Program Validation/verification body name /Number of years 
+_____________
+Joint Validation  Verification /30-March-2014 to 31 January-2016 /VCS LGAI Technological Center, S.A. (Applus)/01 year, 10 months, 02 days 
+____________
+Verification /01-February-2016 to 30 September-2017/VCS Earthood Services Private Limited /01 year, 08 months, 00 days
+_____________
+Verification/ 01-October-2017 to 31 August-2018/VCS Earthood Services Private Limited/00 year, 11 months, 00 days 
+_____________ 
+Verification/ 01-September-2018 to 31-October-2019 /VCS Earthood Services Private Limited /01 year, 02 months, 00 days 
+________________
+Verification/ 01-November-2019 to 31-October-2020 /VCS LGAI Technological Center, S.A. (Applus)/01 year, 00 months, 00 days 
+_______________ 
+Verification/ 01-November-2020 to 31-August-2021 /VCS LGAI Technological Center, S.A. (Applus) /00 year, 10 months, 00 days 
+______________
+Verification/ 01-September-2021 to 30-April-2022 /VCS VKU Certification Private Limited/ 00-year 8 months 00 days
+___________
+Verification/ 01-May-2022 to 31 December-2022 /VCS VKU Certification Private Limited/ 00-year 8 months 00 days 
+_____________ 
+Verification/ 01-January-2023 to 29 March-2024 /VCS VKU Certification Private Limited /01-year 2 months 29 days
+____________
 
