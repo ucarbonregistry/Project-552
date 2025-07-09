@@ -67,4 +67,24 @@ In continuation with the same, the UCR project has been considered crediting of 
 reductions from 30th March 2024. Hence, the first monitoring period considered under UCR is from
 30th March 2024, thus there is no concern of double accounting of emission reductions.
 ________________
+VCS ID: 1520 
+
+Title: Wind Project in Maharashtra, India by Kayathar and Jath
+
+VCS Proponent: M/s NSL Wind Power Company (Kayathar) Pvt. Ltd.
+
+VCS Project Status: Registered
+
+Estimated Annual Emission Reductions: 118598
+
+VCS Project Type: Energy industries (renewable/non-renewable sources)
+
+VCS Methodology: ACM0002
+
+VCS Project Validator: LGAI Technological Center, S.A. (Applus+ Certification)
+
+Project Registration Date: 06/04/2020
+
+Crediting Period Term: CREDITING PERIOD HAS EXPIRED, 30/03/2014 - 29/03/2024
+______________________
 
